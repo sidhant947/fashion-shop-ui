@@ -3,6 +3,18 @@
 
 This project is a UI design for an online fashion shop, inspired by the elegant "Abaya Fashion Shop" concept from [Behance](https://www.behance.net/gallery/103613349/Abaya-App-Fashion-Shop). The design is created using **Flutter**, focusing on a simple, intuitive, and beautiful shopping experience.
 
+## ScreenShots
+
+
+<img src="https://github.com/user-attachments/assets/e89fd05c-b06a-415c-a53a-bd7be6a9f21f" width="250">
+
+<img src="https://github.com/user-attachments/assets/2a66fd79-d413-465d-8388-fa05fb638336" width="250">
+<img src="https://github.com/user-attachments/assets/5e86df09-15b1-48b4-b3ce-c64b849ce47c" width="250">
+<img src="https://github.com/user-attachments/assets/05febade-8a6e-4921-ac2f-ddca3050e67b" width="250">
+<img src="https://github.com/user-attachments/assets/52fab06b-f18f-4bae-915d-259b55f1ec88" width="250">
+<img src="https://github.com/user-attachments/assets/be1d298d-6e76-4720-800f-21922b9836c3" width="250">
+
+
 ## Features
 
 - Elegant, minimalistic interface showcasing fashion products.
@@ -50,18 +62,7 @@ To run this project locally, follow the steps below:
    flutter run
    ```
 
-## Screenshots
 
-Here are a few screenshots of the UI:
-
-- **Home Screen**:
-  ![Home Screen](assets/screenshots/home_screen.png)
-
-- **Product Detail Screen**:
-  ![Product Detail](assets/screenshots/product_detail.png)
-
-- **Profile Screen**:
-  ![Profile Screen](assets/screenshots/profile_screen.png)
 
 ## 1 Hour UI Challenge
 
